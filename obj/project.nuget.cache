@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATK+OSQVJTE=",
+  "success": true,
+  "projectFilePath": "/home/mahad/Projects/path-tracer-main/path-tracer-cs/PathTracerApi/PathTracerApi.csproj",
+  "expectedPackageFiles": [
+    "/home/mahad/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
