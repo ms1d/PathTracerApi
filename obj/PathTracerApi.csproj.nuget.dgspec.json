@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mahad/Projects/path-tracer-main/path-tracer-cs/PathTracerApi/PathTracerApi.csproj": {}
+    "/home/mahad/Projects/path-tracer-main/PathTracerApi/PathTracerApi.csproj": {}
   },
   "projects": {
-    "/home/mahad/Projects/path-tracer-main/path-tracer-cs/PathTracerApi/PathTracerApi.csproj": {
+    "/home/mahad/Projects/path-tracer-main/PathTracerApi/PathTracerApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mahad/Projects/path-tracer-main/path-tracer-cs/PathTracerApi/PathTracerApi.csproj",
+        "projectUniqueName": "/home/mahad/Projects/path-tracer-main/PathTracerApi/PathTracerApi.csproj",
         "projectName": "PathTracerApi",
-        "projectPath": "/home/mahad/Projects/path-tracer-main/path-tracer-cs/PathTracerApi/PathTracerApi.csproj",
+        "projectPath": "/home/mahad/Projects/path-tracer-main/PathTracerApi/PathTracerApi.csproj",
         "packagesPath": "/home/mahad/.nuget/packages/",
-        "outputPath": "/home/mahad/Projects/path-tracer-main/path-tracer-cs/PathTracerApi/obj/",
+        "outputPath": "/home/mahad/Projects/path-tracer-main/PathTracerApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mahad/.nuget/NuGet/NuGet.Config"
