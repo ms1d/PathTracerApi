@@ -1,4 +1,6 @@
-﻿namespace PathTracerApi.Tests;
+﻿using Xunit;
+
+namespace Tests;
 
 public class UnitTest1
 {

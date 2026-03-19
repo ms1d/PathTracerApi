@@ -15,11 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Using Include="Xunit" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\PathTracerApi.csproj" />
+	  <ProjectReference Include="../PathTracerApi.csproj" />
   </ItemGroup>
 
 </Project>

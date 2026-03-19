@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PathTracerApi.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+</Solution>
