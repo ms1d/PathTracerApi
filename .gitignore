@@ -1,4 +1,2 @@
-/bin/
-/obj/
-PathTracerApi.Tests/bin/
-PathTracerApi.Tests/obj/
+bin/
+obj/
